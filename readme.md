@@ -2,7 +2,7 @@
 
 ![A low-poly blue ocean, with rolling waves, sits on a black background](./static/raging-sea.png)
 
-This project explores animating shaders and patterns. It was created with Three.js.
+This project explores animating WebGL shaders and patterns. It was created with Three.js.
 
 It features a features a low-poly sea with rolling waves. In the upper-right corner is a GUI that allows users to dynamically adjust multiple parameters for the scene, including wave elevation, frequency, and speed, small wave iterations, and sea colors.
 
