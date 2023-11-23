@@ -1,4 +1,4 @@
-# Animated Galaxy
+# Raging Sea
 
 ![A low-poly blue ocean, with rolling waves, sits on a black background](./static/raging-sea.png)
 
