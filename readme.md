@@ -1,6 +1,6 @@
 # Raging Sea
 
-![A low-poly blue ocean, with rolling waves, sits on a black background](./static/raging-sea.png)
+![A low-poly blue ocean, with rolling waves, sits on a black background](./static/raging-sea.jpg)
 
 This project explores animating WebGL shaders and patterns. It was created with Three.js.
 
